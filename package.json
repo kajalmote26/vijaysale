@@ -1,0 +1,23 @@
+{
+  "name": "vijaysale",
+  "version": "1.0.0",
+  "description": "online shopping",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kajalmote26/vijaysale.git"
+  },
+  "author": "Kajal Mote",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kajalmote26/vijaysale/issues"
+  },
+  "homepage": "https://github.com/kajalmote26/vijaysale#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
